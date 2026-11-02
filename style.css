@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+p {
+    color: yellow;
+}
+
+#red {
+    color: red;
+}
+
+.class {
+    color: cyan !important;
+    text-decoration: underline;
+    font-size: 35px;
+}
+
+.element {
+    margin: 25px;
+    border: 10px solid red;
+    background-color: blue;
+    padding: 2.5rem;
+    text-align: center;
+    color: white;
+}
+
+.playfair-display {
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
